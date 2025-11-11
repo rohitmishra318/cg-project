@@ -21,7 +21,7 @@ The game combines strategy, reflex, and fantasy — where you play as a wizard d
 |------|------|----------|
 | **Rohit Mishra** | Game Concept, Logic Design & Core Mechanics | 2023-BCS-056 |
 | **Md Rezaul** | Backend & Database (Supabase Integration) | 2023-BCS-035 |
-| **Saurav Bhosdiwala** | Frontend, UI & Game Rendering | 2023-BCS-069 |
+| **Saurav Patel** | Frontend, UI & Game Rendering | 2023-BCS-059 |
 
 ---
 
